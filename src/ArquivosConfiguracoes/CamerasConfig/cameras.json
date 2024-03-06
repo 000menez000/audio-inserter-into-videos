@@ -1,0 +1,44 @@
+[
+    {
+        "cam_1" : "rtsp://admin:W1l2i345@@201.77.127.76:554/cam/realmonitor?channel=1&subtype=0",
+        "arena" : "teste_01",
+        "modalidade" : "futevolei1",
+        "resolucao" : "1280x720"
+    },
+    {
+        "cam_2" : "rtsp://admin:W1l2i345@@201.77.127.76:6601/cam/realmonitor?channel=1&subtype=0",
+        "arena" : "teste_02",
+        "modalidade" : "futevolei1",
+        "resolucao" : "1280x720"
+    },
+    {
+        "cam_3" : "rtsp://admin:W1l2i345@@201.77.127.76:6602/cam/realmonitor?channel=1&subtype=0",
+        "arena" : "teste_03",
+        "modalidade" : "futevolei3",
+        "resolucao" : "1280x720"
+    },
+    {
+        "cam_4" : "rtsp://admin:W1l2i345@@201.77.127.76:6603/cam/realmonitor?channel=1&subtype=0",
+        "arena" : "teste_04",
+        "modalidade" : "futevolei4",
+        "resolucao" : "1280x720"
+    },
+    {
+        "cam_5" : "rtsp://admin:W1l2i345@@201.77.127.76:6605/cam/realmonitor?channel=1&subtype=0", 
+        "arena" : "teste_05",
+        "modalidade" : "futevolei5",
+        "resolucao" : "1280x720"
+    },
+    {
+        "cam_6" : "rtsp://admin:W1l2i345@@201.77.127.76:6606/cam/realmonitor?channel=1&subtype=0",
+        "arena" : "teste_06",
+        "modalidade" : "futevolei6",
+        "resolucao" : "1280x720"
+    },
+    {
+        "cam_7" : "rtsp://admin:W1l2i345@@201.77.127.76:6607/cam/realmonitor?channel=1&subtype=0",
+        "arena" : "teste_07",
+        "modalidade" : "futevolei7",
+        "resolucao" : "1280x720"
+    }
+]
